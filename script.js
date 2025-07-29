@@ -1,5 +1,5 @@
 function converter() {
-    let dolar = 5.7; // Valor do Dolar
+    let dolar = 5.59; // Valor do Dolar
     let reais = parseFloat(document.getElementById("valor").value);
     
    
